@@ -1,0 +1,6 @@
+0 mariam 20 f mariam@gmail.com 1234 a 1 0 0 0 0
+0 m 23 m m@gmail.com 123 a 0 0 0 0 0
+1 mariam 23 f mariam@ mmm b 0 0 0 0 0
+2 mmm 23 f aaa aa a 1 1 0 0 0
+3 hhhh 23 f hhh hhh a 0 1 0 0 0
+4 yy 33 f yy yy a 1 1 0 0 0
